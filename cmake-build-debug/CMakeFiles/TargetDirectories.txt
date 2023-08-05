@@ -1,0 +1,3 @@
+/home/hasib/Semester4/Operating Systems/labs/lab9_10/cmake-build-debug/CMakeFiles/lab9_10.dir
+/home/hasib/Semester4/Operating Systems/labs/lab9_10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hasib/Semester4/Operating Systems/labs/lab9_10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
